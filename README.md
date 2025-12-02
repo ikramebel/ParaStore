@@ -31,11 +31,11 @@ Gestion du panier et validation des commandes.
 
 🚀 Technologies Utilisées
 
-\*Backend
+\*Backend:
 Spring Boot
 Spring Security (JWT Authentication)
 Spring Data JPA
 MySQL
 
-\*Frontend
+\*Frontend:
 React
